@@ -1,0 +1,9 @@
+C:\Users\thiag\OneDrive\Documentos\Visual Studio 2017\Projects\LinguagensFormais\LinguagensFormais\bin\Debug\LinguagensFormais.exe.config
+C:\Users\thiag\OneDrive\Documentos\Visual Studio 2017\Projects\LinguagensFormais\LinguagensFormais\bin\Debug\LinguagensFormais.exe
+C:\Users\thiag\OneDrive\Documentos\Visual Studio 2017\Projects\LinguagensFormais\LinguagensFormais\bin\Debug\LinguagensFormais.pdb
+C:\Users\thiag\OneDrive\Documentos\Visual Studio 2017\Projects\LinguagensFormais\LinguagensFormais\obj\Debug\LinguagensFormais.csprojResolveAssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\Visual Studio 2017\Projects\LinguagensFormais\LinguagensFormais\obj\Debug\LinguagensFormais.Form1.resources
+C:\Users\thiag\OneDrive\Documentos\Visual Studio 2017\Projects\LinguagensFormais\LinguagensFormais\obj\Debug\LinguagensFormais.Properties.Resources.resources
+C:\Users\thiag\OneDrive\Documentos\Visual Studio 2017\Projects\LinguagensFormais\LinguagensFormais\obj\Debug\LinguagensFormais.csproj.GenerateResource.Cache
+C:\Users\thiag\OneDrive\Documentos\Visual Studio 2017\Projects\LinguagensFormais\LinguagensFormais\obj\Debug\LinguagensFormais.exe
+C:\Users\thiag\OneDrive\Documentos\Visual Studio 2017\Projects\LinguagensFormais\LinguagensFormais\obj\Debug\LinguagensFormais.pdb

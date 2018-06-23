@@ -1,0 +1,91 @@
+Tokens de Controle
+	Indentação 	-> 	TK.INDENT
+	Desindentação	-> 	TK.DEDENT
+
+Tipos
+	String		-> 	TK.STRING
+	Float		-> 	TK.FLOAT
+	Inteiro 	-> 	TK.INTEGER
+
+Palavras reservadas
+	Identificadores	-> 	TK.ID
+	
+	Lexema: and	-> 	TK.AND
+	Lexema: del	-> 	TK.DEL
+	Lexema: from	-> 	TK.FROM
+	Lexema: not	-> 	TK.NOT
+	Lexema: while	-> 	TK.WHILE
+	Lexema: as	-> 	TK.AS
+	Lexema: elif	-> 	TK.ELIF
+	Lexema: global	-> 	TK.GLOBAL
+	Lexema: or	-> 	TK.OR
+	Lexema: with	-> 	TK.WITH
+	Lexema: assert	-> 	TK.ASSERT
+	Lexema: else	-> 	TK.ELSE
+	Lexema: if	-> 	TK.IF
+	Lexema: pass	-> 	TK.PASS
+	Lexema: yield	-> 	TK.YIELD
+	Lexema: break	-> 	TK.BREAK
+	Lexema: except	-> 	TK.EXCEPT
+	Lexema: import	-> 	TK.IMPORT
+	Lexema: print	-> 	TK.PRINT
+	Lexema: class	-> 	TK.CLASS
+	Lexema: exec	-> 	TK.EXEC
+	Lexema: in	-> 	TK.IN
+	Lexema: raise	-> 	TK.RAISE
+	Lexema: continue-> 	TK.CONTINUE
+	Lexema: finally	-> 	TK.FINALLY
+	Lexema: is	-> 	TK.IS
+	Lexema: return	-> 	TK.RETURN
+	Lexema: def	-> 	TK.DEF
+	Lexema: for	-> 	TK.FOR
+	Lexema: lambda	-> 	TK.LAMBDA
+	Lexema: try	-> 	TK.TRY
+	Lexema: none	-> 	TK.NONE
+	Lexema: nonlocal-> 	TK.NONLOCAL
+
+Operadores
+	Lexema: (	-> 	TK.LEFTPAR
+	Lexema: )	-> 	TK.RIGHTPAR
+	Lexema: ,	-> 	TK.COMMA
+	Lexema: .	-> 	TK.DOT
+	Lexema: '	-> 	TK.BACKQUOTE
+	Lexema: {	-> 	TK.LEFTBRAC
+	Lexema: }	-> 	TK.RIGHTBRAC
+	Lexema: ~	-> 	TK.TILDE
+	Lexema: @	-> 	TK.AT
+	Lexema: !=	-> 	TK.NOTEQUAL
+	Lexema: [	-> 	TK.LEFTSQB
+	Lexema: ]	-> 	TK.RIGHTSQB
+	Lexema: :	-> 	TK.COLON
+	Lexema: ;	-> 	TK.SEMICOLON
+	Lexema: +	-> 	TK.PLUS
+	Lexema: +=	-> 	TK.PLUSEQUAL
+	Lexema: -	-> 	TK.MINUS
+	Lexema: -=	-> 	TK.MINEQUAL
+	Lexema: *	-> 	TK.STAR
+	Lexema: *=	-> 	TK.STAREQUAL
+	Lexema: **	-> 	TK.DOUBLESTAR
+	Lexema: **=	-> 	TK.DOUBLESTAREQUAL
+	Lexema: /	-> 	TK.SLASH
+	Lexema: /=	-> 	TK.SLASHEQUAL
+	Lexema: //	-> 	TK.DOUBLESLASH
+	Lexema: //=	-> 	TK.DOUBLESLASHEQUAL
+	Lexema: |	-> 	TK.VERTBAR
+	Lexema: |=	-> 	TK.VERTBAREQUAL
+	Lexema: &	-> 	TK.AMPER
+	Lexema: &=	-> 	TK.AMPEREQUAL
+	Lexema: <	-> 	TK.LESS
+	Lexema: <=	-> 	TK.LESSEQUAL
+	Lexema: <<	-> 	TK.SHIFTLEFT
+	Lexema: <<=	-> 	TK.SHIFTLEFTEQUAL
+	Lexema: >	-> 	TK.GREATER
+	Lexema: >=	-> 	TK.GREATEREQUAL
+	Lexema: >>	-> 	TK.SHIFTRIGHT
+	Lexema: >>=	-> 	TK.SHIFTRIGHTEQUAL
+	Lexema: =	-> 	TK.EQUAL
+	Lexema: ==	-> 	TK.EQUALEQUAL
+	Lexema: %	-> 	TK.PERCENT
+	Lexema: %=	-> 	TK.PERCENTEQUAL
+	Lexema: ^	-> 	TK.CIRCUMFLEX
+	Lexema: ^=	-> 	TK.CIRCUMFLEXEQUAL
